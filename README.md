@@ -15,3 +15,12 @@ in two dimensions at the end of this analysis.The sections of this analysis incl
  - Exploring the Data
  - Building the Neural Network 
  - Visualizing the Data with t-SNE.
+
+
+## Fraud detection
+
+```Fraud detection
+```
+
+
+![Fraud Flowchart](./fraud/FraudDetection.png)
